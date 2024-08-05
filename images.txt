@@ -1,3 +1,6 @@
 nginx
 opengrok/docker:1.13.17
 opengrok/docker:1.6.9
+whyour/qinglong:latest
+xiaoyaliu/alist:latest
+
