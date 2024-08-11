@@ -1,5 +1,8 @@
 opengrok/docker:1.13.17
 opengrok/docker:1.6.9
+opengrok/docker:1.13.7
+opengrok/docker:1.13.9
+opengrok/docker:1.13.10
 tomcat:jre11-temurin-noble
 tomcat:jdk11-temurin-noble
 eclipse-temurin:11-jre-noble
