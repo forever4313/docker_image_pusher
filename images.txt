@@ -1,1 +1,4 @@
 amilys/embyserver:latest
+nastools/nas-tools:latest
+hslr/sun-panel:latest
+qdtoday/qd:latest
