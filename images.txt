@@ -3,3 +3,4 @@ nastools/nas-tools:latest
 hslr/sun-panel:latest
 qdtoday/qd:latest
 linuxserver/jackett:latest
+jxxghp/moviepilot-v2
