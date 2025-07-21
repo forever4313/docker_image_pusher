@@ -1,6 +1,8 @@
+yangliu/yacd:latest
+dreamacro/clash:latest
 amilys/embyserver:latest
 nastools/nas-tools:latest
 hslr/sun-panel:latest
 qdtoday/qd:latest
 linuxserver/jackett:latest
-jxxghp/moviepilot-v2
+jxxghp/moviepilot-v2:latest
