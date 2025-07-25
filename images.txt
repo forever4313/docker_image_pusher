@@ -1,12 +1,3 @@
-yangliu/yacd:latest
-dreamacro/clash:latest
-amilys/embyserver:latest
-nastools/nas-tools:latest
-hslr/sun-panel:latest
-qdtoday/qd:latest
-linuxserver/jackett:latest
-jxxghp/moviepilot-v2:latest
 mdcng/mdc:latest
-ghcr.io/yuukiy/javsp:master
 
 
