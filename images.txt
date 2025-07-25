@@ -6,5 +6,5 @@ hslr/sun-panel:latest
 qdtoday/qd:latest
 linuxserver/jackett:latest
 jxxghp/moviepilot-v2:latest
-xxxsen/yamdc:latest
+mdcng/mdc:latest
 ghcr.io/yuukiy/javsp:master
