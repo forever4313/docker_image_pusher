@@ -8,3 +8,5 @@ linuxserver/jackett:latest
 jxxghp/moviepilot-v2:latest
 mdcng/mdc:latest
 ghcr.io/yuukiy/javsp:master
+
+
